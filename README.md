@@ -34,22 +34,7 @@
 
   </a>
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.sh
-<a href=src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" wi
+    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label
  
   <h1>👇 DEPLOY NOW 👇</h1>
 </div>
