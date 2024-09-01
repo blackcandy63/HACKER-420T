@@ -16,26 +16,18 @@
 <p align="center">
 
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hurl=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJ&title=e_flat=false" a></a>
   
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
+  <a href="https://github.com/VajiraTech/VAJIRA-
     
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
+  <a href="https://gith//img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label
- 
+  <a href="https
   <h1>👇 DEPLOY NOW 👇</h1>
 </div>
 
