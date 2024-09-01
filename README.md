@@ -48,18 +48,8 @@
   </p>
  <p align="center">
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
-
-  </a>
-</p>
-
-## 💡 FOLLOW OUR CHANAL
-
-<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
-
-<br>
-
-<div align="center">
+    <img src="https://img.sh
+<a href=src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" wi
  
   <h1>👇 DEPLOY NOW 👇</h1>
 </div>
